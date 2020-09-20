@@ -45,6 +45,7 @@ body {
     transform: translateY(100px);
 }
 
+
 .container .card:hover .face.face1 {
     background: #ff0057;
     transform: translateY(0);
@@ -60,7 +61,7 @@ body {
 }
 
 .container .card .face.face1 .content img {
-    max-width: 100px;
+    max-width: 150px;
 }
 
 .container .card .face.face1 .content h3 {
